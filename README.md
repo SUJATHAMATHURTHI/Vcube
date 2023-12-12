@@ -1,6 +1,4 @@
 # maven-project
 
-Simple Maven Project
-b xc asbncasncbn
-xbncshcbsncbsdj
+Simple Maven Projec
 vgfmhgmjbmj
